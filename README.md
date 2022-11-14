@@ -14,8 +14,8 @@ This is an implementation of the models in the following paper which is publishe
 	Author = {Zheng, Q and Delingette, H and Duchateau, N and Ayache, N},
 	Journal = {IEEE Trans Med Imaging},
 	Title = {3D consistent & robust segmentation of cardiac images by deep learning with spatial propagation},
-	Volume = {?},
-	Pages = {?-?},
+	Volume = {37},
+	Pages = {2137-2148},
 	Year = {2018}
 }
 
